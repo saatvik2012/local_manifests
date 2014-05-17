@@ -6,7 +6,7 @@
   <project name="LegacyXperia/android_device_semc_msm7x30-common" path="device/semc/msm7x30-common" remote="github" revision="cm-11.0"/>
 
   <project name="LegacyXperia/android_device_semc_mogami-common" path="device/semc/mogami-common" remote="github" revision="cm-11.0"/>
-  <project name="saatvik2012/android_device_semc_haida" path="device/semc/haida" remote="github" revision="nameless"/>
+  <project name="saatvik2012/android_device_semc_haida_nameless" path="device/semc/haida" remote="github" revision="nameless"/>
   
   <project name="LegacyXperia/android_kernel_semc_msm7x30" path="kernel/semc/msm7x30" remote="github" revision="cm-11.0"/>
 
