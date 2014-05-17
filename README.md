@@ -1,9 +1,10 @@
-CyanogenMod 11.0 for SEMC 2011 devices
+Nameless 4.4 for Sony Ericsson XPERIA Neo V
+
 ===============
 
-Local manifest needed to build cm-11.0 for the Sony Ericsson 2011 phone line.
+Local manifest needed to build Namesless ROM for the Sony Ericsson XPERIA Neo V
 
 Instructions:
 -------------
 
-Copy semc.xml into .repo/local_manifests folder in your cm11.0 tree
+Copy semc.xml into .repo/local_manifests folder.
